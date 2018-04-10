@@ -1,0 +1,24 @@
+garbage
+PLACE 0,0,NORTH
+PLACE missing bits
+MOVE extra bits
+REPORT
+
+PLACE 0,0,NORTH,and something that should not be here
+LEFT
+REPORT
+PLACE   1,  2,  EAST
+MOVE
+MOVE
+LEFT
+MOVE
+REPORT
+
+...and more stuff
+
+an invalid place
+
+PLACE 5,5,NORTH
+REPORT
+
+...and it should still work :)
