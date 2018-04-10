@@ -1,8 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
-# Toy Robot Simulator
+# Toy Robot Simulator in Java 10
 
-A simple toy robot simulator
+A simple toy robot simulator using Java 10
 
 # Build
 
